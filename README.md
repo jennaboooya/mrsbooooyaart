@@ -1,5 +1,4 @@
 # mrsbooooyaart
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -21,8 +20,7 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #000; /* Black background */
-            background-image: url(![close-up-pattern-sloths-purple-background-generative-ai_1034578-18670](https://github.com/user-attachments/assets/22a4e6fb-0382-42cd-9554-c906e57e2366)
-); /* Add your sloth image here */
+            background-image:![close-up-pattern-sloths-purple-background-generative-ai_1034578-18670](https://github.com/user-attachments/assets/a729288f-1e34-44ae-8986-ea498227765b)
             background-size: cover; /* Cover the whole screen */
             background-position: center center; /* Center the image */
             background-attachment: fixed; /* Keep the background fixed when scrolling */
