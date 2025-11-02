@@ -9,7 +9,6 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #000; /* Black background */
-           :background-image: url('https://yourimagehosting.com/sloth-background.jpg');
             background-size: cover; /* Cover the whole screen */
             background-position: center center; /* Center the image */
             background-attachment: fixed; /* Keep the background fixed when scrolling */
