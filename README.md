@@ -1,4 +1,4 @@
-# mrsbooooyaart <!DOCTYPE html>
+# mrsbooooyaart
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +8,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #000; /* Black background */
+            background-color: black
             color: #fff; /* White text for contrast */
             margin: 0;
             padding: 0;
@@ -100,7 +100,7 @@
     <!-- Header -->
     <header>
         <h1>mrsboooyaart</h1>
-        <p>Where creativity meets craft. Explore posters & keychains that speak to your soul.</p>
+        <p>Where creativity meets craft. Explore posters & keychains that speak to you.</p>
     </header>
 
     <!-- Navigation -->
@@ -114,7 +114,7 @@
     <!-- Home Section -->
     <section id="home">
         <h2>Welcome to mrsboooyaart</h2>
-        <p>Discover unique, handmade posters and keychains. Click on the portfolio below to explore our creative world.</p>
+        <p>Discover unique, handmade posters and keychains. Click on the portfolio below to explore my artwork.</p>
     </section>
 
     <!-- Portfolio Section -->
@@ -140,7 +140,7 @@
     <!-- About Section -->
     <section id="about">
         <h2>About Me</h2>
-        <p>Hi, I'm [Your Name], the artist behind mrsboooyaart. My journey started with a love for creating vibrant designs that could be held in your hand or displayed on your wall. I specialize in designing posters and keychains, each with a unique twist. Thanks for exploring my art!</p>
+        <p>Hi, I'm [Jenna], the artist behind mrsboooyaart. My journey started with a love for creating vibrant designs that could be held in your hand or displayed on your wall. I specialize in designing posters and keychains, each with a unique twist. Thanks for exploring my art!</p>
         <p>Poster prices range from $5 to $20 and keychains range from $5 to $10 depending on design complexity.</p>
     </section>
 
@@ -151,7 +151,7 @@
         
         <h3>Payment Method:</h3>
         <p>For payment, send to my Cash App tag: <strong>$slothjen21</strong>.</p>
-        <p><a href="cash://$slothjen21" target="_blank">Click here to open Cash App and send payment!</a></p>
+        
 
         <form action="mailto:youremail@example.com" method="post" enctype="text/plain">
             <label for="name">Your Name:</label><br>
