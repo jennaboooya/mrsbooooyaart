@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>mrsboooyaART</title>
+    <title>mrsboooyaart</title>
     <style>
-        body {
+
+     body {
             font-family: Arial, sans-serif;
             background-color: #000; /* Black background */
             background-size: cover; /* Cover the whole screen */
