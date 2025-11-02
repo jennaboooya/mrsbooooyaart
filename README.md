@@ -10,7 +10,19 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #000; /* Black background */
-            background-image: url('your-sloth-background-image.jpg'); /* Add your sloth image here */
+            background-image: url(<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>mrsboooyaart</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000; /* Black background */
+            background-image: url(![close-up-pattern-sloths-purple-background-generative-ai_1034578-18670](https://github.com/user-attachments/assets/22a4e6fb-0382-42cd-9554-c906e57e2366)
+); /* Add your sloth image here */
             background-size: cover; /* Cover the whole screen */
             background-position: center center; /* Center the image */
             background-attachment: fixed; /* Keep the background fixed when scrolling */
