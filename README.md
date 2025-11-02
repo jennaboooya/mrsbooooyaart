@@ -1,4 +1,5 @@
 # mrsbooooyaart
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,13 +9,17 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: black
+            background-color: #000; /* Black background */
+            background-image: url('your-sloth-background-image.jpg'); /* Add your sloth image here */
+            background-size: cover; /* Cover the whole screen */
+            background-position: center center; /* Center the image */
+            background-attachment: fixed; /* Keep the background fixed when scrolling */
             color: #fff; /* White text for contrast */
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: #4B0082; /* Indigo (Purple) for the header */
+            background-color: rgba(75, 0, 130, 0.7); /* Dark purple with transparency */
             padding: 20px;
             text-align: center;
         }
@@ -29,7 +34,7 @@
             margin-top: 10px;
         }
         nav {
-            background-color: #2E004F; /* Dark purple for the navigation bar */
+            background-color: rgba(46, 0, 79, 0.8); /* Dark purple for the navigation bar with opacity */
             text-align: center;
             padding: 12px;
         }
@@ -55,7 +60,7 @@
             margin-top: 30px;
         }
         .portfolio-item {
-            background-color: #2E004F; /* Dark purple background for items */
+            background-color: rgba(46, 0, 79, 0.8); /* Dark purple with transparency for items */
             padding: 20px;
             border-radius: 10px;
             text-align: center;
@@ -81,7 +86,7 @@
             margin-top: 10px;
         }
         footer {
-            background-color: #2E004F; /* Dark purple footer */
+            background-color: rgba(46, 0, 79, 0.8); /* Dark purple footer */
             text-align: center;
             padding: 20px;
             color: #DDA0DD; /* Light purple text */
@@ -96,7 +101,6 @@
     </style>
 </head>
 <body>
-
     <!-- Header -->
     <header>
         <h1>mrsboooyaart</h1>
